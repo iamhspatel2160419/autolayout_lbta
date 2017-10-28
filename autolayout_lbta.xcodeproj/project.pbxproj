@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C72CADD91FA3FB0D006F2E12 /* SwipingController+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C72CADD81FA3FB0D006F2E12 /* SwipingController+extension.swift */; };
+		C72CADDB1FA3FB96006F2E12 /* SwipingController+UICollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C72CADDA1FA3FB96006F2E12 /* SwipingController+UICollectionView.swift */; };
 		C74B37EC1F90660A00F4F883 /* SwipingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74B37EB1F90660A00F4F883 /* SwipingController.swift */; };
 		C74B37EE1F90698200F4F883 /* PageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C74B37ED1F90698200F4F883 /* PageCell.swift */; };
 		C7997BFC1F9194B700B5DF56 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7997BFB1F9194B700B5DF56 /* Page.swift */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C72CADD81FA3FB0D006F2E12 /* SwipingController+extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwipingController+extension.swift"; sourceTree = "<group>"; };
+		C72CADDA1FA3FB96006F2E12 /* SwipingController+UICollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwipingController+UICollectionView.swift"; sourceTree = "<group>"; };
 		C74B37EB1F90660A00F4F883 /* SwipingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipingController.swift; sourceTree = "<group>"; };
 		C74B37ED1F90698200F4F883 /* PageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageCell.swift; sourceTree = "<group>"; };
 		C7997BFB1F9194B700B5DF56 /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
@@ -69,6 +73,8 @@
 				C74B37EB1F90660A00F4F883 /* SwipingController.swift */,
 				C74B37ED1F90698200F4F883 /* PageCell.swift */,
 				C7997BFB1F9194B700B5DF56 /* Page.swift */,
+				C72CADD81FA3FB0D006F2E12 /* SwipingController+extension.swift */,
+				C72CADDA1FA3FB96006F2E12 /* SwipingController+UICollectionView.swift */,
 			);
 			path = autolayout_lbta;
 			sourceTree = "<group>";
@@ -148,8 +154,10 @@
 				C79CF60F1F79AE6F00C1D117 /* ViewController.swift in Sources */,
 				C79CF60D1F79AE6F00C1D117 /* AppDelegate.swift in Sources */,
 				C74B37EE1F90698200F4F883 /* PageCell.swift in Sources */,
+				C72CADDB1FA3FB96006F2E12 /* SwipingController+UICollectionView.swift in Sources */,
 				C74B37EC1F90660A00F4F883 /* SwipingController.swift in Sources */,
 				C7997BFC1F9194B700B5DF56 /* Page.swift in Sources */,
+				C72CADD91FA3FB0D006F2E12 /* SwipingController+extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
